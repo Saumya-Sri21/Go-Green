@@ -2,7 +2,7 @@ import React from 'react';
 import Carousel from '../Components/Home/Carousel';
 function Home() {
     return (
-        <div className='max-w-full h-fit overflow-x-hidden no-scrollbar'>
+        <div className='max-w-full h-screen overflow-x-hidden no-scrollbar'>
 
             <div className='px-28 py-8 flex-row items-center justify-center no-scrollbar'>
                 <div>
