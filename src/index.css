@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 body{
-    background: rgb(195, 195, 240);
+    background: rgb(138, 168, 212);
 }
 .no-scrollbar::-webkit-scrollbar {
     display: none;
